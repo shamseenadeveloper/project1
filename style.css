@@ -1,0 +1,82 @@
+.inboxlg{
+    min-width: 60px;
+    text-align: center;
+    margin-top: 5%;
+}
+#sec1{
+    background-color: ghostwhite;
+}
+#sec2{
+    background-color:  #5893cf; 
+
+}
+
+.inbox2img{
+    height: 600px;
+ 
+ 
+}
+.inbox2img img{
+    width: 100%;
+ 
+}
+
+.linebox{
+    min-height: 2px;
+    width: 400px;
+    margin-top: 50px;
+    background-color: aliceblue;
+}
+.inbox3text{
+min-height: 200px;
+text-align: center;
+}
+#sec4{
+    background-color: #5893cf;
+}
+.inbox4icon{
+    min-height: 300px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+#sec5{
+    background-color: black;
+}
+.inbox5text{
+    min-height: 300px;
+    color: white;
+    text-align: center;
+    margin: 5%;
+    
+
+}
+#sec7{
+    background-color: black;
+}
+.inbox7text{
+    min-height: 300px;
+    color: aliceblue;
+    text-align: center;
+}
+.inbox8text{
+    height: 200px;
+}
+.icon{
+    margin-right: 50px;
+}
+.linebox{
+    height: 2px;
+    width: 500px;
+    margin-top: 50px;
+}
+
+.inbox6img img{
+    height: 200px;
+}
+
+@media (max-width:768px) {
+    .inbox2img{
+       height: auto;
+    }
+}
